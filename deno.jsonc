@@ -1,0 +1,4 @@
+{
+  "nodeModulesDir": "auto",
+  "workspace": ["./packages/foo", "./packages/bar", "./apps/web"],
+}

@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "@scope/foo": "jsr:@scope/foo@^1.0.0"
+    },
+    "tasks": {
+        "d:dev": "deno run --allow-read --allow-env --allow-ffi --allow-sys npm:vite dev"
+    }
+}
