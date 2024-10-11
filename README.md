@@ -2,8 +2,6 @@
 
 ## Clone repo and install
 
-Clone this repo
-
 ```
 cd apps/web
 
