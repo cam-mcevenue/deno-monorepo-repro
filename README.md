@@ -1,16 +1,16 @@
 # Reproduction steps
 
-## Clone repo and install
+## Clone repo, install and run dev server
 
 ```
-cd apps/web
-
 deno install --allow-scripts
+
+cd apps/web
 
 deno run dev
 ```
 
-Should get the following error:
+## Result
 
 ```
 Error: The following dependencies are imported but could not be resolved:
